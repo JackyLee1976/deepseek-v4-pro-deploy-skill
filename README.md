@@ -1,4 +1,5 @@
-# DeepSeek V4 PRO Triple CLI Deployment Skill
+# 鲸叹号.SKILL-DeepSeek V4 PRO轻松部署到Claude Code / Codex CLI / Gemini CLI三大AI编程助手
+DeepSeek V4 PRO Triple CLI Deployment Skill
 
 一键将 **DeepSeek V4 PRO** 部署为 **Claude Code / Codex CLI / Gemini CLI** 三大 AI 编程工具的底层模型。
 
