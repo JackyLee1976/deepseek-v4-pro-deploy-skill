@@ -1,0 +1,5 @@
+interface:
+  display_name: "DeepSeek V4 PRO 部署"
+  short_description: "一键部署 DeepSeek V4 PRO 到 Claude Code/Codex CLI/Gemini CLI 三大编码工具"
+  default_prompt: "使用 -v4-pro-deploy 将三大 CLI 工具接入 DeepSeek V4 PRO"
+  brand_color: "#4F46E5"
